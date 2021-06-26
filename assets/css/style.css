@@ -514,3 +514,30 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .social a:hover {
   color: #000;
 }
+
+@media(max-width:600px){
+  #portfolio-grid{
+  
+    display: grid !important;
+    grid-template-columns: repeat(2,1fr) !important;
+    grid-template-rows:200px 200px !important;
+  
+  }
+  #portfolio-grid2{
+  
+    display: grid !important;
+    grid-template-columns: repeat(2,1fr) !important;
+    grid-template-rows:200px 200px !important;
+    grid-row-gap: 50px;
+  }
+  #portfolio-grid3{
+  
+    display: grid !important;
+    grid-template-columns: repeat(2,1fr) !important;
+    grid-template-rows:200px 200px !important;
+    grid-row-gap: 50px;
+  }
+  #portfolio-grid .item{
+    grid-column: 1/2 !important;
+ }
+}

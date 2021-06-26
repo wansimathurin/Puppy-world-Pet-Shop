@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cc0d261-da00-40a5-bc06-eedca343a6b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-adobe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-apple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-netflix.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-nike.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo-uber.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single10.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single11.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single12.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single13.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single14.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single15.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single16.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single17.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single2.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single3.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single4.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single5.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single6.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single7.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single8.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work-single9.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single9.html" afterDir="false" />
-    </list>
+    <list default="true" id="5cc0d261-da00-40a5-bc06-eedca343a6b2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +53,7 @@
       <workItem from="1624025401962" duration="16397000" />
       <workItem from="1624119789510" duration="4497000" />
       <workItem from="1624391342925" duration="7194000" />
+      <workItem from="1624443425599" duration="574000" />
     </task>
     <servers />
   </component>
