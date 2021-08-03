@@ -3,9 +3,19 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+/* block images================ */
+.img-fluid{
+z-index: 999;
+position: absolute;
+top: 12px;
+bottom: 23px;
+left: 50px;
+}
+/*End block images================ */
+
 .puppy img{
 
-  with:100%;
+  width:100%;
   height: auto;
 
   margin: 0 auto 30px auto;
