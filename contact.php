@@ -41,7 +41,7 @@
             <li><a href="about.html">About Me</a></li>
             <li><a href="services.html">Services</a></li>
 
-            <li class="active"><a href="contact.html">Contact</a></li>
+            <li class="active"><a href="contact.php">Contact</a></li>
           </ul>
         </div>
         <div class="col-md-6 d-none d-md-block  mr-auto">
@@ -173,7 +173,7 @@
         </div>
         <div class="col-sm-6 social text-md-right">
 
-          <a href="https://facebook.com/teacuppupiesforsale/"><span class="icofont-facebook"></span></a>
+          <a href="https://www.facebook.com/teacupspuppyworld/"><span class="icofont-facebook"></span></a>
           <a href="angelpuppy62@gmail.com"><span class="icofont-ui-message"></span></a>
           <a href="https://instagram.com/teacuppuppyworld_?utm_medium=copy_link"><span class="icofont-instagram"></span></a>
         </div>
