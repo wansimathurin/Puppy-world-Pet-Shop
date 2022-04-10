@@ -18,6 +18,11 @@
   }
   burgerMenu();
 
+  // var phoneNumber = document.getElementById('number').value;
+  // if(!isNaN(phoneNumber)){
+  //   alert('enter a valid phone number')
+  // }
+
   var siteIstotope = function() {
     var $container = $('#portfolio-grid').isotope({
       itemSelector: '.item',
@@ -69,3 +74,5 @@
   });
 
 })(jQuery);
+
+
